@@ -1,10 +1,10 @@
 # Python practice - Caesar cipher
 
-This is a practice assignment for early prython programming. It can include string-operations, functions, input. It is also a first practice run for learning git/ github.
+This is a practice assignment for early prython programming. It can include string-operations, functions, input. It is also a first practice run for learning git/ github. It is also a first practice in writing this markdown Readme-file.
 
 The assignment is to write a program to encrypt or decrypt messages using a Caesar-cipher.
 
-Here is the link for [Wikipedia-Link Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher).
+Here is the [Wikipedia link - Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher).
 
 
 Possible tasks:
@@ -13,6 +13,7 @@ Possible tasks:
 - ask if the message shoud be encrypted or decrypted.
 - write a function for encrypting the characters of a cleartext-input. Make it case insensitive (upper case letters) and remove all non-aplabetical characters
 - write a function to decrypt the encrypted text, to get the cleartext back.
+
 
 Example:
 ```
