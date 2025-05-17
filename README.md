@@ -11,7 +11,7 @@ Possible tasks:
 
 - ask for the shift of the cipher to the regular alphabet and create the cipher.
 - ask if the message shoud be encrypted or decrypted.
-- write a function for encrypting the characters of a cleartext-input. Make it case insensitive (upper case letters) and remove all non-aplabetical characters
+- write a function for encrypting the characters of a cleartext-input. Make it case insensitive (upper case letters) and remove all non-alphabetical characters
 - write a function to decrypt the encrypted text, to get the cleartext back.
 
 
