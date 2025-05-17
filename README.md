@@ -4,10 +4,10 @@ Here is the link for [Wikipedia-Link Caesar cipher](https://en.wikipedia.org/wik
 
 Possible assignments:
 
-- ask for the shift of the cipher to the regular alphabet and creating the cipher.
+- ask for the shift of the cipher to the regular alphabet and create the cipher.
 - ask if the message shoud be encrypted or decrypted.
 - write a function for encrypting the characters of a cleartext-input. Make it case insensitive (upper case letters) and remove all non-aplabetical characters
-- write a funtion to decrypt the encrypted text, to get the cleartext back.
+- write a function to decrypt the encrypted text, to get the cleartext back.
 
 Example:
 ```
