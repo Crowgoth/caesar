@@ -5,8 +5,26 @@ Here is the link for [Wikipedia-Link Caesar cipher](https://en.wikipedia.org/wik
 Possible assignments:
 
 - ask for the shift of the cipher to the regular alphabet and creating the cipher.
-- write a function for encrypting the characters of a cleartext-input. Make it case insensitive (upper case letters) to make encryption easier.
+- ask if the message shoud be encrypted or decrypted.
+- write a function for encrypting the characters of a cleartext-input. Make it case insensitive (upper case letters) and remove all non-aplabetical characters
 - write a funtion to decrypt the encrypted text, to get the cleartext back.
-- ask for a cleartext-input, check that the cleartext consists of only letters
 
+Example:
+'''
+How many characters should the alphabet be shifted (1-25): 3
+Alphabet:         ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Shifted alphabet: DEFGHIJKLMNOPQRSTUVWXYZABC
 
+Do you want to (e)ncrypt or (d)ecrypt a message? e
+
+Please enter message: Hello World!
+Processed message: KHOORZRUOG
+How many characters should the alphabet be shifted (1-25): 3
+Alphabet:         ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Shifted alphabet: DEFGHIJKLMNOPQRSTUVWXYZABC
+
+Do you want to (e)ncrypt or (d)ecrypt a message? e
+
+Please enter message: Hello World!
+Processed message: KHOORZRUOG
+'''
