@@ -54,11 +54,11 @@ def main():
     print(f"Alphabet:         {alpha_string}")
     print(f"Shifted alphabet: {cipher_string}\n")
 
-    choice=""
-    processed_message=""
+    choice = ""
+    processed_message = ""
     while not (choice =="e" or choice == "d"):
         choice = input("Do you want to (e)ncrypt or (d)ecrypt a message? ")
-    message =input("\nPlease enter message: ")
+    message = input("\nPlease enter message: ")
     if choice =="e":
         processed_message = encrypt_string(message, alpha_string, cipher_string)
     if choice == "d":
