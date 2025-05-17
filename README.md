@@ -1,6 +1,6 @@
 # Python practice - Caesar cipher
 
-This is a practice assignment for early prython programming. It can include string-operations, functions, input. It is also a first practice run for learning git/ github. It is also a first practice in writing this markdown Readme-file.
+This is a practice assignment for early python programming. It can include string-operations, functions, input. It is also a first practice run for learning git/ github and writing this Readme-file in Markdown.
 
 The assignment is to write a program to encrypt or decrypt messages using a Caesar-cipher.
 
