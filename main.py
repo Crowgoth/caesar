@@ -4,8 +4,7 @@ def create_alpha_strings(shift):
     # accepts integer for shifting the alphabet
     # return a regular alphabet string and a shifted one.
     alpha_string ="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    cipher_string = alpha_string
-    cipher_string = cipher_string[shift:26] + cipher_string[0:shift]
+    cipher_string = alpha_string[shift:26] + alpha_string[0:shift]
     return alpha_string, cipher_string
 
 # -------------------------------------------------------------------
