@@ -10,7 +10,7 @@ Possible assignments:
 - write a funtion to decrypt the encrypted text, to get the cleartext back.
 
 Example:
-'''
+```
 How many characters should the alphabet be shifted (1-25): 3
 Alphabet:         ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Shifted alphabet: DEFGHIJKLMNOPQRSTUVWXYZABC
@@ -19,12 +19,4 @@ Do you want to (e)ncrypt or (d)ecrypt a message? e
 
 Please enter message: Hello World!
 Processed message: KHOORZRUOG
-How many characters should the alphabet be shifted (1-25): 3
-Alphabet:         ABCDEFGHIJKLMNOPQRSTUVWXYZ
-Shifted alphabet: DEFGHIJKLMNOPQRSTUVWXYZABC
-
-Do you want to (e)ncrypt or (d)ecrypt a message? e
-
-Please enter message: Hello World!
-Processed message: KHOORZRUOG
-'''
+```
